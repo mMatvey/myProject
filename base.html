@@ -7,7 +7,10 @@
     {% endblock %}
 </head>
 <body>
-    <div id="content">{% block content %}{% endblock %}</div>
+    <div id="content">{% block content %}
+        <a href="about/aboutme.html"> Прямая ссылка </a> <br>
+        <a href="http://localhost:8000/about/aboutme.html"> Абсолютная ссылка </a>
+        {% endblock %}</div>
     <div id="footer">
         {% block footer %}
           Just a footer. KEKDUDES

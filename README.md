@@ -1,4 +1,4 @@
 # myProject
 First task hw
 # there is nothing interesting
-# ¯\_(ツ)_/¯
+¯\_(ツ)_/¯
